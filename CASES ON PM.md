@@ -78,7 +78,7 @@
 * **Direct Compensation Fund: 100,000 casino cash allocated to detainees for prolonged detention, emotional distress, and reputational harm.** 
 * **Fines Originally Levied on Robbers: Any fines or penalties that would have originally been imposed on the detained robbery suspects will now accrue to the government and be used in a public restitution fund for citizen safety, legal aid, and law enforcement improvement.**
 
-# CASE 4: Robberies by the Minister of Interior & Security
+# CASE 9: Robberies by the Minister of Interior & Security
 **Facts:**
 **The Minister of Interior & Security has directly committed multiple robberies against citizens, unlawfully taking money and property through criminal acts. These actions constitute serious criminal offenses and demand immediate legal action.**
 
@@ -86,3 +86,4 @@
 * **Full recovery of all robbed money and property**
 * **Additional financial compensation to victims for losses, distress, and violation of rights**
 * **Strict criminal punishment under applicable robbery laws**
+
