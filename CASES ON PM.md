@@ -13,41 +13,33 @@
 * **Inclusion of 15,000 PKR giveaway as part of the compensation package.**
 * **Moral / Emotional Damages: Total 2,000,000 casino cash divided among 89 voters for distress caused by unfulfilled promises and the misuse of public trust.**
 
-# CASE 2: Economic Mismanagement, Excessive Taxation & Citizen Burden
-**Facts:**
-* **Citizens face extremely limited job opportunities, making livelihood difficult.**
-* **High taxation rates exacerbate financial stress:**
-*     **Transfer Tax: 9% (reduced from 40%, but still heavy for poor citizens)**
-*     **Winning Tax: 5%**
-*     **Loan Interest Rate: 13%**
-*     **Investment Profit: 8% (lower than interest rates, creating net loss for small investors)**
-* **Citizens needing loans to cover basic expenses end up paying far more than they can manage, trapping them in debt cycles.**
-* **These policies disproportionately affect lower-income citizens, violating their economic rights and fair treatment.**
-**Compensation & Relief:**
-* **Immediate Review & Adjustment of Taxation and Loan Policies – Ensure transfer, winning taxes, and loan interest rates do not unfairly burden citizens.**
-* **Public Accountability Measures: Government must publish transparent reports on taxation revenue, loan programs, and citizen relief efforts.**
-
-# CASE 3: Unlawful Budgetary Actions & Parliamentary Negligence
+# CASE 2: Unlawful Budgetary Actions & Parliamentary Negligence
 **Facts:**
 **Budgets set without opposition consultation; parliamentary sessions neglected.**
 
 **Compensation & Relief:**
 * **Injunction: Suspend unilateral budget decisions.**
 
-# CASE 4: Unaccounted State Funds & Lack of Audit (5 million casino cash misappropriated)
-Facts:
-* **5,000,000 PKR withdrawn from State Bank with no accounting or audit.**
+# CASE 3: Misappropriation of State Funds, Illegal Budget Allocation & Absence of Audit
+**Facts:**
+* **15,000,000 PKR were allocated/released from the State Bank for official purposes.**
+* **Out of this amount, the concerned authorities illegally set and utilized a budget without parliamentary approval or opposition oversight.**
+* **Only 5,000,000 PKR has been informally acknowledged, without presenting any audit report, expenditure record, or third-party verification.**
+* **No financial audit, trail, or utilization breakdown has been disclosed to the public, raising serious concerns of embezzlement, misappropriation, and abuse of authority.**
 
-**Compensation & Relief:**
-* **Recovery of Funds: 5,000,000 PKR + 250 lac PKR interest.**
+**Compensation & Relief Sought:**
+* **Immediate recovery of the full 15,000,000 PKR from responsible individuals.**
+* **Submission of a complete, independent forensic audit for the entire amount.**
+* **Additional recovery of 250 lac PKR as penalty and interest for illegal use of public funds.**
+* **Disqualification and legal action against all officials involved in approving or concealing the unlawful budget allocation.**
 
-# CASE 5: Failure to Uphold Democratic Accountability
+# CASE 4: Failure to Uphold Democratic Accountability
 **Facts:**
 * **No parliamentary sessions conducted; public expenditures not disclosed.**
 **Compensation & Relief:**
 * **Mandatory Parliamentary Sessions | Court order to hold missed sessions.**
 
-# CASE 6: Hate Speech, Racial Abuse & Defamation During Public Interaction Session
+# CASE 5: Hate Speech, Racial Abuse & Defamation During Public Interaction Session
 **Facts:**
 * **During a public interaction session, the Prime Minister used racial slurs and derogatory language against an opposition MP, humiliating and demeaning them.**
 * **The OPO Party Leader and the MP were defamed in front of the public, damaging their reputation and standing.**
@@ -59,12 +51,12 @@ Facts:
 * **2,000,000 casino cash to the OPO Party Leader for public defamation and reputational damage.**
 * **500,000 casino cash to the citizen defamed during the session.**
 
-# CASE 7: Unauthorized Conduct by Police Officers (No Licenses)
+# CASE 6: Unauthorized Conduct by Police Officers (No Licenses)
 **Facts:**
 * **Three police officers were found operating without proper licenses, performing official duties without legal authorization.**
 * **Their actions pose serious public safety risks and violate statutory law governing law enforcement licensing.**
 
-# CASE 9: Neglect by Ministry of Transparency & Audit
+# CASE 7: Neglect by Ministry of Transparency & Audit
 
 **Facts:**
 **Minister of Transparency & Audit has taken no action to audit government funds, review financial mismanagement, or report irregularities.**
@@ -74,7 +66,7 @@ Facts:
 **Compensation & Relief:**
 * **Immediate Audit Order: Court-mandated forensic audit of all government funds under Minister’s oversight.**
 
-# CASE 10: Police Negligence – Delayed Trials for Detained Robbery Suspects
+# CASE 8: Police Negligence – Delayed Trials for Detained Robbery Suspects
 **Facts:**
 * **Several individuals detained for robbery have remained in police custody for extended periods without their cases being presented in court.**
 * **Police have failed to file charges, submit evidence, or initiate trials, directly violating suspects’ constitutional and legal rights.**
@@ -85,3 +77,12 @@ Facts:
 * **Immediate Court Submission: All detained robbery cases must be presented in court within 7 days, under judicial supervision.**
 * **Direct Compensation Fund: 100,000 casino cash allocated to detainees for prolonged detention, emotional distress, and reputational harm.** 
 * **Fines Originally Levied on Robbers: Any fines or penalties that would have originally been imposed on the detained robbery suspects will now accrue to the government and be used in a public restitution fund for citizen safety, legal aid, and law enforcement improvement.**
+
+# CASE 4: Robberies by the Minister of Interior & Security
+**Facts:**
+**The Minister of Interior & Security has directly committed multiple robberies against citizens, unlawfully taking money and property through criminal acts. These actions constitute serious criminal offenses and demand immediate legal action.**
+
+**Compensation & Relief:**
+* **Full recovery of all robbed money and property**
+* **Additional financial compensation to victims for losses, distress, and violation of rights**
+* **Strict criminal punishment under applicable robbery laws**
